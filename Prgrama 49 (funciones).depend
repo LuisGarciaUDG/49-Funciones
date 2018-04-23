@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429658653 source:c:\users\luis\dropbox\inco\seminario de solución de problemas de programación\prueba de manejo de archivos\prgrama 49 (funciones)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
